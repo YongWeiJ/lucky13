@@ -1,0 +1,35 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="KIND_SpriteKind" id="^QB6`Pn;W^Rs#^G97ZLB">Player</variable><variable type="KIND_SpriteKind" id=",8rq$g_fe)-m(t/Y8DY@">Projectile</variable><variable type="KIND_SpriteKind" id="]@E)9uXzd?xE5)@QB=$~">Food</variable><variable type="KIND_SpriteKind" id="AiuQ%`U!e(NJZATeR@Z=">Enemy</variable><variable id="B:q!B*_}0%?9*`-}]}DV">mySprite</variable><variable id="-tJ+LbxU!|NcVHS68*_j">mySprite2</variable></variables><block type="pxt-on-start" id="=]0u@L(=lo2`b?gQ^76c" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="lc5E#()PHCXv+w371rg]"><field name="VAR" id="B:q!B*_}0%?9*`-}]}DV">mySprite</field><value name="VALUE"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id=":FD]H*A,N}=beQ9,C~~v"><value name="img"><shadow type="screen_image_picker" id="Gel#iK61NZI{kg:Q-a2E"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . 5 5 5 5 . . . . . . 
+. . . . . . 5 5 5 5 . . . . . . 
+. . . . . . . 5 . . . . . . . . 
+. 9 9 . . . 5 5 5 5 . . . 9 9 . 
+. 9 9 9 . . 5 5 5 5 . . 9 9 9 . 
+. 9 9 9 9 . 5 5 5 5 . 9 9 9 9 . 
+. 9 9 9 9 9 5 5 5 5 9 9 9 9 9 . 
+. . . . . . 5 5 5 5 . . . . . . 
+. 9 9 9 9 9 5 5 5 5 9 9 9 9 9 . 
+. 9 9 9 9 . 5 5 5 5 9 . . . . . 
+. 9 9 9 . . 5 5 5 5 . . . . . . 
+. 9 9 . . . 5 5 5 5 . . . . . . 
+. . . . . . 5 5 5 5 . . . . . . 
+. . . . . . 5 5 5 5 . . . . . . 
+. . . . . . . 5 5 . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"Gel#iK61NZI{kg:Q-a2E"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="pEszF:oK6T?yhU_w4d*t"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block><block type="variables_set" id="h#+3JrU9Awx,0;u_xfa+" disabled="true" x="30" y="250"><field name="VAR" id="-tJ+LbxU!|NcVHS68*_j">mySprite2</field><value name="VALUE"><shadow type="math_number" disabled="true"><field name="NUM">0</field></shadow><block type="spritescreate" id="6BTP:Hn}BWlkJad8O]$A" disabled="true"><value name="img"><shadow type="screen_image_picker" id="aE+W~fVDw]wAc,2E#puF" disabled="true"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"aE+W~fVDw]wAc,2E#puF"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="Hl/yb60P=hr+@64i^uKE" disabled="true"><field name="MEMBER">Player</field></shadow></value></block></value></block></xml>
